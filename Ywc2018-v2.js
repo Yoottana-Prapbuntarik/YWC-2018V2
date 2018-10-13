@@ -16,5 +16,4 @@ function cardAt(n){
     } 
 
 }
-for(k=0;k<=52;k++)
-console.log(cardAt(k));
+console.log(cardAt(0));
